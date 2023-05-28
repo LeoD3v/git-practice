@@ -3,3 +3,4 @@ Age: 32
 Favorite color: red
 country : USA
 birthday:1991
+city: Freiburg
