@@ -4,3 +4,4 @@ Favorite color: red
 country : USA
 birthday:1991
 city: Freiburg
+Languages: Spanish, English, German
